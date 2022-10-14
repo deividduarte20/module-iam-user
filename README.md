@@ -4,7 +4,7 @@
 git clone https://github.com/deividduarte20/module-iam-user.git
 
 ### Entre no diretório baixado
-cd module-ec2-key-pair
+cd module-iam-user
 
 ### Inicie o terraform
 terraform init
